@@ -1,4 +1,4 @@
-# 📊 PingPong-BPM-Overlay
+# 📊 BPM-Video-Generator
 
 ## 🎯 Objectif
 
